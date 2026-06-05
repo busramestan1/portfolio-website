@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { TypeAnimation } from 'react-type-animation';
 // Dosya yolunu ve adını tam olarak buraya yaz
-import benimAvatarim from './assets/busra-avatar.png';
+import benimAvatarim from './src/assets/busra-avatar.png';
 
 function Hero() {
   return (
@@ -126,7 +126,6 @@ function Hero() {
           <div className="w-72 h-72 md:w-96 md:h-96 rounded-2xl border border-zinc-200 bg-white/60 p-4 backdrop-blur-sm flex justify-center items-center overflow-hidden shadow-xl shadow-zinc-200/50">
             <img 
               src={benimAvatarim} alt="Avatar"
-              alt="Büşra - AI Avatar" 
               className="w-full h-full object-cover rounded-xl"
               onError={(e) => {
                 e.target.style.display = 'none';
