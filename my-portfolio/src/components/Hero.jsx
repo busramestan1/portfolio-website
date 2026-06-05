@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { TypeAnimation } from 'react-type-animation';
 // Dosya yolunu ve adını tam olarak buraya yaz
-import benimAvatarim from './src/assets/busra-avatar.png';
+import benimAvatarim from '../assets/busra-avatar.png';
 
 function Hero() {
   return (
