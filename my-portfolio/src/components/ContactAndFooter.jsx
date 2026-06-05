@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 
 function ContactAndFooter() {
-  const myEmail = "busra@example.com";
+  const myEmail = "busramestan1021@gmail.com";
 
   // Gmail compose ekranını açar
   const gmailUrl = `https://mail.google.com/mail/?view=cm&fs=1&to=${myEmail}`;
@@ -9,19 +9,19 @@ function ContactAndFooter() {
   const socialLinks = [
     {
       name: "GitHub",
-      url: "https://github.com",
+      url: "https://github.com/busramestan1",
       handle: "@busramestan1",
       hover: "hover:bg-purple-50 hover:border-purple-200",
     },
     {
       name: "LinkedIn",
-      url: "https://linkedin.com",
+      url: "https://www.linkedin.com/in/b%C3%BC%C5%9Fra-mestan-2aa863353/",
       handle: "Büşra Mestan",
       hover: "hover:bg-blue-50 hover:border-blue-200",
     },
     {
       name: "Instagram",
-      url: "https://instagram.com",
+      url: "https://instagram.com/busramstn",
       handle: "@busramstn",
       hover: "hover:bg-pink-50 hover:border-pink-200",
     },
