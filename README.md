@@ -1,3 +1,6 @@
+<img width="1817" height="762" alt="Ekran görüntüsü 2026-07-21 110023" src="https://github.com/user-attachments/assets/a6337f09-92f6-4bdf-bac2-668f09cd53ec" />
+<img width="1847" height="867" alt="Ekran görüntüsü 2026-07-21 110009" src="https://github.com/user-attachments/assets/aabb6750-66b6-431f-88c8-94d8b0df1f58" />
+<img width="1866" height="870" alt="Ekran görüntüsü 2026-07-21 105951" src="https://github.com/user-attachments/assets/fb14a935-34c1-4a80-8b2b-784a4bb173e7" />
 # 🌸 Büşra - Full-Stack Developer Portfolio
 
 Bu proje, modern web teknolojileri kullanılarak geliştirilmiş, "Pinterest estetiği" ve canlı pastel tonlarla (`#ffc3c9`) harmanlanmış kişisel bir portfolyo web sitesidir. 
